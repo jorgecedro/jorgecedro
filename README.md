@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorgecedro
 - 👀 I’m interested in software
 - 🌱 I’m currently learning new tech
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 How to reach me ...
 
 <!---
