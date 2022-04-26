@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   
  
-<div> 
- https://github.com/jorgecedro/jorgecedro/blob/96e1748ba7379021c71f2503887b626548462a03/.github/fluxos%20de%20trabalho/snak.yml
+<div>
 
 </div>
