@@ -9,8 +9,6 @@ jorgecedro/jorgecedro is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-</div>
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/react-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
