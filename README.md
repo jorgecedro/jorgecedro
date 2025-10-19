@@ -1,4 +1,5 @@
-⁹⁹-  Hi, I’m jorge cedro.
+⁹⁹-  Hi, I’m jorge cedro
+
 - 👀 I’m interested in software
 - 🌱 I’m currently learning new tech
 - 💞️ I’m looking to collaborate on artificial intelligence
@@ -9,7 +10,7 @@ You can click the Preview link to take a look at your changes
 --->
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_lock"><br>
   <img src="https://img.shields.io/badge/react-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
