@@ -1,4 +1,4 @@
-⁹⁹-  Hi, I’m jorge cedrov
+⁹⁹-  Hi, I’m jorge cedrovl
 
 - 👀 I’m interested in software
 - 🌱 I’m currently learning new tech
