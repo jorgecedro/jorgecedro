@@ -1,4 +1,4 @@
-⁹⁹-  Hi, I’m jorge cedro   ....
+⁹⁹-  Hi, I’m jorge cedro   
 
 
 - 👀 I’m interested in software
