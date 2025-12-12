@@ -1,6 +1,5 @@
 ⁹⁹-  Hi, I’m jorge cedro   
 
-;;;;;
 - 👀 I’m interested in software
 - 🌱 I’m currently learning new tech
 - 💞️ I’m looking to collaborate on artificial intelligence
