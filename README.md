@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software
 - 🌱 I’m currently learning new tech
-- 💞️ I’m looking to collaborate on artificial intelligence ....
+- 💞️ I’m looking to collaborate on artificial intelligence 
 - 📫 How to reach me : jorgecedro@gmail.com
 <!---
 jorgecedro/jorgecedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
